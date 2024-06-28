@@ -1,5 +1,5 @@
 Methodology: ![method](https://github.com/atharvakotkar/Global-Location-Rating-and-Review-Platform-with-Dynamic-Mapping/assets/70961929/30753c0c-573a-40e9-9b55-0244ae071797)
-
+Frontend Code for this project: https://github.com/atharvakotkar/Mapbox-Frontend-code
 Database : MongoDB Atlas is used where data is stored in a test database which contains two collections containing info related to pins and users.
 ![db](https://github.com/atharvakotkar/Global-Location-Rating-and-Review-Platform-with-Dynamic-Mapping/assets/70961929/dcfe8417-e89a-4037-9aa3-29ec66fe56e2)
 Frontend : Frontend is made up of react where we use mapbox to display the maps On starting the server and client:
