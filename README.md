@@ -12,13 +12,14 @@ Adding information on Pins
 ![map2](https://github.com/atharvakotkar/Global-Location-Rating-and-Review-Platform-with-Dynamic-Mapping/assets/70961929/8a8b3ef5-e216-4926-a75d-d082189c5aae)
 
 Frontend Code for this project: https://github.com/atharvakotkar/Mapbox-Frontend-code
-
 Tech Stack Used:
-MongoDB
-Express
-React
-NodeJS
-Mapbox
+MongoDB  
+Express  
+React  
+NodeJS  
+Mapbox  
+
+
 
 
 
