@@ -13,6 +13,15 @@ Adding information on Pins
 
 Frontend Code for this project: https://github.com/atharvakotkar/Mapbox-Frontend-code
 
+Tech Stack Used :
+--> MongoDB
+--> Express
+--> React
+--> NodeJS
+--> Mapbox
+
+
+
 
 
 
